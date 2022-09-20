@@ -68,7 +68,9 @@ transaction_fee: float = int(high_gas_fees) / 10  # $ maximum transaction fees
 ```
 ## Usage
 
-**WARNING** | Writing your private key anywhere on a computer is a big security issue and can end up with a wallet hack | **WARNING**
+**WARNING**
+Writing your private key anywhere on a computer is a big security issue and can end up with a wallet hack
+**WARNING**
 
 Setup Wallet vars: **Line 49**
 
