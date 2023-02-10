@@ -81,7 +81,6 @@ Setup Wallet vars: **Line 49**
 # Wallet vars
 public_address: str = ''
 private_key: str = ''
-}
 ```
 
 Save your chrome profile with your Metamask to C:\\User_Data
