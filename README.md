@@ -4,6 +4,9 @@ Automated bot to buy and sell NFTs from ThetanArena marketplace.
 
 Used to instantly buy extremely low price NFTs and sell it for a normal price afterward.
 On bscscan, my bot was much faster than the 3 or 4 other bots in the same category used by other people.
+## Important information
+
+Old code quickly made without any code formating or test.
 ## Installation
 
 Install Python3 and required dependencies
